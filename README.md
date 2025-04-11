@@ -29,4 +29,4 @@ streamlit run app.py
 # 3. Install Node dependencies
 npm install
 
-# 4. Open the local web link provided (e.g., http://localhost:8501) and start uploading images!
+# 4. Open the local web link provided
